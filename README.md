@@ -6,8 +6,8 @@ Fully commented functionalities on both Engligh and Portuguese language.
 
 You will learn and find examples of:
 
-Keccak hash verification
-Mapping storage (set and push)
-Counters
-String lenght
-Getters & setters
+Keccak hash verification;
+Mapping storage (set and push);
+Counters;
+String lenght;
+Getters & setters;
